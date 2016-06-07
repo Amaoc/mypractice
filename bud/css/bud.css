@@ -161,13 +161,13 @@ body {
     -moz-transform: rotateX(-7deg);
     transform: rotateX(-7deg);
   }
-  40% {
+  20% {
     -webkit-transform: rotateX(-7deg);
     -o-transform: rotateX(-7deg);
     -moz-transform: rotateX(-7deg);
     transform: rotateX(-7deg);
   }
-  70% {
+  80% {
     -webkit-transform: rotateX(1.4deg);
     -o-transform: rotateX(1.4deg);
     -moz-transform: rotateX(1.4deg);
